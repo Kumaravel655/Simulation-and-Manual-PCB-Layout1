@@ -1,4 +1,5 @@
 
+# Ex no:01
 # Simulation and Manual PCB Layout
 
 ### AIM
@@ -21,3 +22,4 @@ To create a schematic, simulate, and manually lay out the PCB for a simple circu
 ![image](https://user-images.githubusercontent.com/75235334/225825413-565b021c-7f25-4ea4-b55b-278c11e2e8dd.png)
 
 ### RESULT
+Thus the program to design a pcp model using protues software is implemented and excuted successfully.
