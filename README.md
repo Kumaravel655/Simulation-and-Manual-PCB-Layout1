@@ -32,7 +32,7 @@ To create a schematic, simulate, and manually lay out the PCB for a simple circu
 
 
 ### MANUAL PCB LAYOUT (Scanned Image)
- ![image](https://user-images.githubusercontent.com/75235334/230702625-3e7d7f85-666e-4945-bd6c-f6d576ee3e79.png)
+ ![image](https://github.com/Kumaravel655/Simulation-and-Manual-PCB-Layout1/assets/75235334/0ec3b0f7-4020-4e3f-82b1-45e74b3d3d77)
 
 ### RESULT
 Thus the program to design a pcp model using protues software is implemented and excuted successfully.
