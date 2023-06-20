@@ -1,5 +1,8 @@
+### EXP NO: 01
 
-# Simulation and Manual PCB Layout
+### Date: 
+
+# <p align = "center"> Simulation and Manual PCB Layout
 
 ### AIM
 To create a schematic, simulate, and manually lay out the PCB for a simple circuit.
